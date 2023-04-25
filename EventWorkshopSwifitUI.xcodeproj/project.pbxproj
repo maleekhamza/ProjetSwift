@@ -8,21 +8,40 @@
 
 /* Begin PBXBuildFile section */
 		D849F08929F7CECC00E71BEF /* EventWorkshopSwifitUIApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = D849F08829F7CECC00E71BEF /* EventWorkshopSwifitUIApp.swift */; };
-		D849F08B29F7CECC00E71BEF /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D849F08A29F7CECC00E71BEF /* ContentView.swift */; };
 		D849F08D29F7CECD00E71BEF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D849F08C29F7CECD00E71BEF /* Assets.xcassets */; };
 		D849F09029F7CECE00E71BEF /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D849F08F29F7CECE00E71BEF /* Preview Assets.xcassets */; };
 		D849F09229F7CECE00E71BEF /* Persistence.swift in Sources */ = {isa = PBXBuildFile; fileRef = D849F09129F7CECE00E71BEF /* Persistence.swift */; };
 		D849F09529F7CECE00E71BEF /* EventWorkshopSwifitUI.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = D849F09329F7CECE00E71BEF /* EventWorkshopSwifitUI.xcdatamodeld */; };
+		D849F0A229F7D96900E71BEF /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D849F0A129F7D96900E71BEF /* HomeView.swift */; };
+		D849F0A429F7D9B900E71BEF /* EventDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D849F0A329F7D9B900E71BEF /* EventDetailView.swift */; };
+		D849F0A829F7DA0700E71BEF /* Consts.swift in Sources */ = {isa = PBXBuildFile; fileRef = D849F0A729F7DA0700E71BEF /* Consts.swift */; };
+		D849F0AA29F7DA1200E71BEF /* Styles.swift in Sources */ = {isa = PBXBuildFile; fileRef = D849F0A929F7DA1200E71BEF /* Styles.swift */; };
+		D849F0AC29F7DA7C00E71BEF /* Config.swift in Sources */ = {isa = PBXBuildFile; fileRef = D849F0AB29F7DA7C00E71BEF /* Config.swift */; };
+		D849F0B329F7DDA300E71BEF /* AirbnbCereal_W_Bd.otf in Resources */ = {isa = PBXBuildFile; fileRef = D849F0AE29F7DDA300E71BEF /* AirbnbCereal_W_Bd.otf */; };
+		D849F0B429F7DDA300E71BEF /* AirbnbCereal_W_Lt.otf in Resources */ = {isa = PBXBuildFile; fileRef = D849F0AF29F7DDA300E71BEF /* AirbnbCereal_W_Lt.otf */; };
+		D849F0B529F7DDA300E71BEF /* AirbnbCereal_W_Blk.otf in Resources */ = {isa = PBXBuildFile; fileRef = D849F0B029F7DDA300E71BEF /* AirbnbCereal_W_Blk.otf */; };
+		D849F0B629F7DDA300E71BEF /* AirbnbCereal_W_Bk.otf in Resources */ = {isa = PBXBuildFile; fileRef = D849F0B129F7DDA300E71BEF /* AirbnbCereal_W_Bk.otf */; };
+		D849F0B729F7DDA300E71BEF /* AirbnbCereal_W_Md.otf in Resources */ = {isa = PBXBuildFile; fileRef = D849F0B229F7DDA300E71BEF /* AirbnbCereal_W_Md.otf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		D849F08529F7CECC00E71BEF /* EventWorkshopSwifitUI.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = EventWorkshopSwifitUI.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D849F08829F7CECC00E71BEF /* EventWorkshopSwifitUIApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EventWorkshopSwifitUIApp.swift; sourceTree = "<group>"; };
-		D849F08A29F7CECC00E71BEF /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		D849F08C29F7CECD00E71BEF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D849F08F29F7CECE00E71BEF /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		D849F09129F7CECE00E71BEF /* Persistence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Persistence.swift; sourceTree = "<group>"; };
 		D849F09429F7CECE00E71BEF /* EventWorkshopSwifitUI.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = EventWorkshopSwifitUI.xcdatamodel; sourceTree = "<group>"; };
+		D849F0A129F7D96900E71BEF /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
+		D849F0A329F7D9B900E71BEF /* EventDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EventDetailView.swift; sourceTree = "<group>"; };
+		D849F0A729F7DA0700E71BEF /* Consts.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Consts.swift; sourceTree = "<group>"; };
+		D849F0A929F7DA1200E71BEF /* Styles.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Styles.swift; sourceTree = "<group>"; };
+		D849F0AB29F7DA7C00E71BEF /* Config.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Config.swift; sourceTree = "<group>"; };
+		D849F0AE29F7DDA300E71BEF /* AirbnbCereal_W_Bd.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = AirbnbCereal_W_Bd.otf; sourceTree = "<group>"; };
+		D849F0AF29F7DDA300E71BEF /* AirbnbCereal_W_Lt.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = AirbnbCereal_W_Lt.otf; sourceTree = "<group>"; };
+		D849F0B029F7DDA300E71BEF /* AirbnbCereal_W_Blk.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = AirbnbCereal_W_Blk.otf; sourceTree = "<group>"; };
+		D849F0B129F7DDA300E71BEF /* AirbnbCereal_W_Bk.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = AirbnbCereal_W_Bk.otf; sourceTree = "<group>"; };
+		D849F0B229F7DDA300E71BEF /* AirbnbCereal_W_Md.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = AirbnbCereal_W_Md.otf; sourceTree = "<group>"; };
+		D849F0B829F7DDC600E71BEF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,8 +74,14 @@
 		D849F08729F7CECC00E71BEF /* EventWorkshopSwifitUI */ = {
 			isa = PBXGroup;
 			children = (
+				D849F0B829F7DDC600E71BEF /* Info.plist */,
+				D849F0AD29F7DBC700E71BEF /* fonts */,
+				D849F0A629F7D9DC00E71BEF /* Utils */,
+				D849F0A029F7D67100E71BEF /* Data */,
+				D849F09F29F7D64400E71BEF /* ViewModels */,
+				D849F09E29F7D60E00E71BEF /* Model */,
+				D849F09D29F7D5F500E71BEF /* View */,
 				D849F08829F7CECC00E71BEF /* EventWorkshopSwifitUIApp.swift */,
-				D849F08A29F7CECC00E71BEF /* ContentView.swift */,
 				D849F08C29F7CECD00E71BEF /* Assets.xcassets */,
 				D849F09129F7CECE00E71BEF /* Persistence.swift */,
 				D849F09329F7CECE00E71BEF /* EventWorkshopSwifitUI.xcdatamodeld */,
@@ -71,6 +96,66 @@
 				D849F08F29F7CECE00E71BEF /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		D849F09D29F7D5F500E71BEF /* View */ = {
+			isa = PBXGroup;
+			children = (
+				D849F0A529F7D9CF00E71BEF /* Widgets */,
+				D849F0A129F7D96900E71BEF /* HomeView.swift */,
+				D849F0A329F7D9B900E71BEF /* EventDetailView.swift */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		D849F09E29F7D60E00E71BEF /* Model */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		D849F09F29F7D64400E71BEF /* ViewModels */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = ViewModels;
+			sourceTree = "<group>";
+		};
+		D849F0A029F7D67100E71BEF /* Data */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Data;
+			sourceTree = "<group>";
+		};
+		D849F0A529F7D9CF00E71BEF /* Widgets */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Widgets;
+			sourceTree = "<group>";
+		};
+		D849F0A629F7D9DC00E71BEF /* Utils */ = {
+			isa = PBXGroup;
+			children = (
+				D849F0A729F7DA0700E71BEF /* Consts.swift */,
+				D849F0A929F7DA1200E71BEF /* Styles.swift */,
+				D849F0AB29F7DA7C00E71BEF /* Config.swift */,
+			);
+			path = Utils;
+			sourceTree = "<group>";
+		};
+		D849F0AD29F7DBC700E71BEF /* fonts */ = {
+			isa = PBXGroup;
+			children = (
+				D849F0AE29F7DDA300E71BEF /* AirbnbCereal_W_Bd.otf */,
+				D849F0B129F7DDA300E71BEF /* AirbnbCereal_W_Bk.otf */,
+				D849F0B029F7DDA300E71BEF /* AirbnbCereal_W_Blk.otf */,
+				D849F0AF29F7DDA300E71BEF /* AirbnbCereal_W_Lt.otf */,
+				D849F0B229F7DDA300E71BEF /* AirbnbCereal_W_Md.otf */,
+			);
+			path = fonts;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -131,8 +216,13 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D849F0B629F7DDA300E71BEF /* AirbnbCereal_W_Bk.otf in Resources */,
+				D849F0B729F7DDA300E71BEF /* AirbnbCereal_W_Md.otf in Resources */,
+				D849F0B329F7DDA300E71BEF /* AirbnbCereal_W_Bd.otf in Resources */,
 				D849F09029F7CECE00E71BEF /* Preview Assets.xcassets in Resources */,
 				D849F08D29F7CECD00E71BEF /* Assets.xcassets in Resources */,
+				D849F0B429F7DDA300E71BEF /* AirbnbCereal_W_Lt.otf in Resources */,
+				D849F0B529F7DDA300E71BEF /* AirbnbCereal_W_Blk.otf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -144,8 +234,12 @@
 			buildActionMask = 2147483647;
 			files = (
 				D849F09229F7CECE00E71BEF /* Persistence.swift in Sources */,
+				D849F0AA29F7DA1200E71BEF /* Styles.swift in Sources */,
+				D849F0A829F7DA0700E71BEF /* Consts.swift in Sources */,
+				D849F0A429F7D9B900E71BEF /* EventDetailView.swift in Sources */,
 				D849F09529F7CECE00E71BEF /* EventWorkshopSwifitUI.xcdatamodeld in Sources */,
-				D849F08B29F7CECC00E71BEF /* ContentView.swift in Sources */,
+				D849F0AC29F7DA7C00E71BEF /* Config.swift in Sources */,
+				D849F0A229F7D96900E71BEF /* HomeView.swift in Sources */,
 				D849F08929F7CECC00E71BEF /* EventWorkshopSwifitUIApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -277,6 +371,7 @@
 				DEVELOPMENT_ASSET_PATHS = "\"EventWorkshopSwifitUI/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = EventWorkshopSwifitUI/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -305,6 +400,7 @@
 				DEVELOPMENT_ASSET_PATHS = "\"EventWorkshopSwifitUI/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = EventWorkshopSwifitUI/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
